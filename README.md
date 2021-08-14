@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumayyaPuthiyapurayil
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Analytics .I like analysing and visualizing datas
 - 🌱 I’m currently learning Post Graduation Diploma in Data Analytics for engineers 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email2sumi.sumayya@gmail.com 
